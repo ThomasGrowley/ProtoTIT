@@ -1,6 +1,6 @@
 A mod for the ploopy thumb trackball. Based off of mine which I have shaved the back off. That's right, if you want a gaming thumb trackball now there is hope, but there might be some work involved.
 
-![pic of proto tit step file](.\Ploopy_ProtoTIT.png "what it looks like in CAD")
+![pic of proto tit step file](https://github.com/ThomasGrowley/ProtoTIT/blob/main/Ploopy_ProtoTIT.png "what it looks like in CAD")
 
 ## Based on the ThumbBodyParts-NoLogo-200.step files from ploopyco.
 
