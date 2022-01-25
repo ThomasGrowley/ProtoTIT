@@ -33,4 +33,6 @@ The idea being high DPI giving a smoother acceleration.
 
 Motivity Curve with Motivity set to 2, and midpoint set to 30 (other settings are default).
 
-This seems to give nice control at slower speeds, but the ability to quickly look behind almost like a flick. Usually fairly low in-game sensitivity. 
+This seems to give nice control at slower speeds, but the ability to quickly look behind almost like a flick. Usually fairly low in-game sensitivity.
+
+LICENSE is CERN-OHL-S v2
