@@ -8,7 +8,7 @@ https://github.com/ploopyco/thumb-trackball
 
 This is the first version, which can be found in  /STEPs, however, I find it is decent for my size hand, but with a wedge I feel I need to shave off even more. It might be ok for larger hands in it's current state.
 
-![pseudo ortho top view](.\TOP_View_v001.jpg "pseudo ortho top view")
+![pseudo ortho top view](https://github.com/ThomasGrowley/ProtoTIT/blob/main/TOP_View_v001.jpg "pseudo ortho top view")
 
 There **WILL** be revisions. Too cold today to stay in the shed. Currently a variety of tools are being used to shape the body - scroll saw, sanders, files, dremel. Eventually 3D printed... and STL files released.
 
